@@ -31,7 +31,7 @@
 	}
 
 	a {
-		color: #49bf9d;
+		color: #3BA8D3;
 		text-decoration: underline;
 	}
 
@@ -193,7 +193,7 @@
 	}
 
 	label {
-		color: #666;
+		color: #3BA8D3;
 		display: block;
 		font-size: 0.9em;
 		font-weight: bold;
@@ -467,7 +467,8 @@
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 60%;
+				border-radius: 50%;
 			}
 
 /* List */
@@ -505,25 +506,6 @@
 				ul.alt li:first-child {
 					border-top: 0;
 					padding-top: 0;
-				}
-
-		ul.icons {
-			cursor: default;
-			list-style: none;
-			padding-left: 0;
-		}
-
-			ul.icons li {
-				display: inline-block;
-				padding: 0 1em 0 0;
-			}
-
-				ul.icons li:last-child {
-					padding-right: 0;
-				}
-
-				ul.icons li .icon:before {
-					font-size: 2em;
 				}
 
 		ul.actions {
@@ -681,7 +663,7 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #666666;
+		background-color: #3BA8D3;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff !important;
@@ -700,14 +682,14 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #737373;
+			background-color: #3BA8D3;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #595959;
+			background-color: #737373;
 		}
 
 		input[type="submit"].icon,
@@ -820,7 +802,7 @@
 	}
 
 	#header {
-		background: #444;
+		background: #3BA8D3;
 		color: #fff;
 		cursor: default;
 		height: 3.25em;
@@ -923,7 +905,7 @@
 		}
 
 		#banner h2 {
-			font-size: 4em;
+			font-size: 3em;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
@@ -940,11 +922,31 @@
 		padding: 4em 0;
 	}
 
+	#main .lienGitHub {
+		color: #3BA8D3;
+		display: block;
+		font-weight: bold;
+		margin: 0 0 1em 0;
+	}
+
+	#main h2, h3 {
+		line-height: 1em;
+	}
+
 /* Footer */
 
 	#footer {
 		background: #f2f2f2;
 		padding: 4em 0;
+		text-align: center;
+	}
+
+	#footer .icons {
+	}
+
+	#footer .icon {
+		color: #3BA8D3;
+		font-size: 2em;
 	}
 
 		#footer .copyright {
@@ -952,7 +954,7 @@
 			font-size: 0.9em;
 			margin: 2em 0 0 0;
 			padding: 0;
-			text-align: center;
+
 		}
 
 			#footer .copyright li {
@@ -969,32 +971,33 @@
 					padding-left: 0;
 				}
 
-/* Grid Demo */
-
-	.grid-demo {
+	.competences {
 		display: block;
 		margin: 0 0 2em 0;
 	}
 
-		.grid-demo span {
-			background: #cdede4;
-			border-radius: 4px;
-			color: rgba(0, 0, 0, 0.25);
+		.competences span {
+			border-radius: 2px;
 			display: block;
 			font-weight: bold;
-			height: 2.75em;
-			line-height: 2.75em;
+			height: 1.75em;
+			line-height: 1.75em;
 			text-align: center;
 		}
 
-		.grid-demo .row.flush > div span {
+		/*	.competences span  h2{
+				color: #3BA8D3;
+				height: 2.75em;
+			} */
+
+		.competences .row.flush > div span {
 			border-radius: 0;
 		}
 
-		.grid-demo .row.flush > div:first-child span {
-			border-radius: 4px 0 0 4px;
+		.competences .row.flush > div:first-child span {
+			border-radius: 2px 0 0 2px;
 		}
 
-		.grid-demo .row.flush > div:last-child span {
-			border-radius: 0 4px 4px 0;
+		.competences .row.flush > div:last-child span {
+			border-radius: 0 2px 2px 0;
 		}
