@@ -985,10 +985,27 @@
 			text-align: center;
 		}
 
-		/*	.competences span  h2{
+			.competences span  h2{
 				color: #3BA8D3;
-				height: 2.75em;
-			} */
+			} 
+
+			.competences span  h3{
+				color: #2F86A9;
+			}
+
+			.competences span  h4{
+				color: #23657F;
+			}
+
+			.competences span  h5{
+				color: #184354;
+			}
+
+			.competences span  h6{
+				color: #0C222A;
+			}
+
+
 
 		.competences .row.flush > div span {
 			border-radius: 0;
