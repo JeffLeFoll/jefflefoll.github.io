@@ -857,13 +857,13 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #ccc;
+						color: #fff;
 						display: inline-block;
 						text-decoration: none;
 					}
 
 						#header nav > ul > li a:hover {
-							color: #fff;
+							color: #0C222A;
 						}
 
 					#header nav > ul > li:first-child {
