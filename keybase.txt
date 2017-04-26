@@ -1,1 +1,54 @@
-keybase domain proof.
+==================================================================
+https://keybase.io/jefflefoll
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeff.lefoll.info
+  * I am jefflefoll (https://keybase.io/jefflefoll) on keybase.
+  * I have a public key ASDh1BVKSvT4878u0r0ZQAHt4vTtHHLYlZJGq6QFCaLt9Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ef73a3fbb88fe0a53c8e20aa7d05aceaf44eda28065e035834df94e64dabc2360a",
+            "host": "keybase.io",
+            "kid": "0120e1d4154a4af4f8f3bf2ed2bd194001ede2f4ed1c72d8959246aba40509a2edf40a",
+            "uid": "cff4326545306743b89cdc091a55ae19",
+            "username": "jefflefoll"
+        },
+        "service": {
+            "hostname": "jeff.lefoll.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493230071,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493230048,
+        "hash": "8f2f2d2cd372f664c1262d1b04bbe566fbea7d5e2e54a9f65ca61ea478106ab91a36c949f1e900d31eec88c26a878d6a7f49a89b40274f05556663a06d9f1aed",
+        "seqno": 1039907
+    },
+    "prev": "16e3acc9de6e76848311f873c2fb83e438d1e9dd51cdf439352e9b9619c34549",
+    "seqno": 41,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4dQVSkr0+PO/LtK9GUAB7eL07Rxy2JWSRqukBQmi7fQKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWY3M2EzZmJiODhmZTBhNTNjOGUyMGFhN2QwNWFjZWFmNDRlZGEyODA2NWUwMzU4MzRkZjk0ZTY0ZGFiYzIzNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTFkNDE1NGE0YWY0ZjhmM2JmMmVkMmJkMTk0MDAxZWRlMmY0ZWQxYzcyZDg5NTkyNDZhYmE0MDUwOWEyZWRmNDBhIiwidWlkIjoiY2ZmNDMyNjU0NTMwNjc0M2I4OWNkYzA5MWE1NWFlMTkiLCJ1c2VybmFtZSI6ImplZmZsZWZvbGwifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImplZmYubGVmb2xsLmluZm8iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkzMjMwMDcxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTMyMzAwNDgsImhhc2giOiI4ZjJmMmQyY2QzNzJmNjY0YzEyNjJkMWIwNGJiZTU2NmZiZWE3ZDVlMmU1NGE5ZjY1Y2E2MWVhNDc4MTA2YWI5MWEzNmM5NDlmMWU5MDBkMzFlZWM4OGMyNmE4NzhkNmE3ZjQ5YTg5YjQwMjc0ZjA1NTU2NjYzYTA2ZDlmMWFlZCIsInNlcW5vIjoxMDM5OTA3fSwicHJldiI6IjE2ZTNhY2M5ZGU2ZTc2ODQ4MzExZjg3M2MyZmI4M2U0MzhkMWU5ZGQ1MWNkZjQzOTM1MmU5Yjk2MTljMzQ1NDkiLCJzZXFubyI6NDEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAH7PcOleyRkFQcco/Ijhyn6ePqtjIK4FmV74AnOPdeCvZqZWjH0TEYPhteRmDYvVs/MM+5pSmWvqEOEqj+u5DAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICrLsVNe55/kdzSqA/CTDKPSGhz9SEg7K9lXx4DCwKN2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jefflefoll
+
+==================================================================
